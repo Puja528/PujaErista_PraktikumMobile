@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PujaErista_3TIB</string>
+    <string name="Title">Private Coaching</string>
+    <string name="Deskripsi">Add one-on-one, confidential sessions for only $35 per session</string>
+    <string name="Questions1">Alredy have an account?</string>
+    <string name="Answer1">Log in</string>
+    <string name="Questions2">Need an account?</string>
+    <string name="Answer2">Sign up</string>
+</resources>

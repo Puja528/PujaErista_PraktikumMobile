@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#BC2222</color>
+    <color name="blue">#2196F3</color>
+
+    <color name="btn_login">#000000</color>
+    <color name="btn_apple">#93E05A</color>
+    <color name="social_btn">#E6E2E2</color>
+    <color name="input_bg">#FAFAFA</color>
+    <color name="text_hint">#A0A0A0</color>
+    <color name="divider_color">#E0E0E0</color>
+</resources>
