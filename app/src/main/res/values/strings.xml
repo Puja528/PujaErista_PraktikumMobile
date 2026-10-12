@@ -6,4 +6,6 @@
     <string name="Answer1">Log in</string>
     <string name="Questions2">Need an account?</string>
     <string name="Answer2">Sign up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
