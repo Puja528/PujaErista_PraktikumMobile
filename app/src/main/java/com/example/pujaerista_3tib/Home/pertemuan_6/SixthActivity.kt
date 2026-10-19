@@ -1,4 +1,4 @@
-package com.example.pujaerista_3tib.pertemuan_6
+package com.example.pujaerista_3tib.Home.pertemuan_6
 
 import android.os.Bundle
 import android.view.MenuItem
@@ -8,7 +8,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.example.pujaerista_3tib.R
-import com.example.pujaerista_3tib.databinding.ActivityLoginBinding
 import com.example.pujaerista_3tib.databinding.ActivitySixthBinding
 
 class SixthActivity : AppCompatActivity() {

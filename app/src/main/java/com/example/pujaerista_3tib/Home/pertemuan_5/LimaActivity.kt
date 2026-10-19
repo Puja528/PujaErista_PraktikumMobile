@@ -1,4 +1,4 @@
-package com.example.pujaerista_3tib.pertemuan_5
+package com.example.pujaerista_3tib.Home.pertemuan_5
 
 import android.content.Intent
 import android.os.Bundle
@@ -11,7 +11,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.pujaerista_3tib.R
 import com.example.pujaerista_3tib.databinding.ActivityLimaBinding
-import com.example.pujaerista_3tib.databinding.ActivityLoginBinding
 
 class LimaActivity : AppCompatActivity() {
 
