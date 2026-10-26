@@ -34,6 +34,7 @@ class SixthActivity : AppCompatActivity() {
             setDisplayShowHomeEnabled(true)
             setHomeAsUpIndicator(R.drawable.ic_arrow_back)
         }
+
 //      Menampilkan fragment pertama secara default
         replaceFragment(SatuFragment(), addToBackStack = false)
 //      Setup event click untuk mengganti fragment
