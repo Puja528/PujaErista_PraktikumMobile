@@ -9,6 +9,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AlertDialog
+import com.example.pujaerista_3tib.Home.pertemuan_10.TenthActivity
 import com.example.pujaerista_3tib.Home.pertemuan_5.LimaActivity
 import com.example.pujaerista_3tib.Home.pertemuan_6.SixthActivity
 import com.example.pujaerista_3tib.Home.pertemuan_9.NinthActivity
@@ -78,6 +79,10 @@ class HomeFragment : Fragment() {
 
         binding.btnToNine.setOnClickListener {
             startActivity(Intent(requireContext(), NinthActivity::class.java))
+        }
+
+        binding.btnToTen.setOnClickListener {
+            startActivity(Intent(requireContext(), TenthActivity::class.java))
         }
 
         binding.btnLogout.setOnClickListener {
